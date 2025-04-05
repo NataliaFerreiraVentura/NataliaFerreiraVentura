@@ -13,7 +13,6 @@
 ## Sobre mim
 Sou apaixonada por tecnologia, sempre em busca de aprimorar minhas habilidades. Trabalho com atenção aos detalhes, sou dedicada ao que faço, e valorizo o feedback construtivo, pois acredito que ele é essencial para o meu crescimento. Tenho me dedicado intensamente ao estudo e à prática de automação de testes com Cypress e javascript. Fora do trabalho, adoro me envolver no universo dos jogos, séries, doramas e filmes.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ###  📭 Entre em contato comigo:
 
