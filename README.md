@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=28&duration=4995&pause=1000&color=A73CCA&background=FF6AE300&center=true&vCenter=true&width=570&lines=Welcome+to+my+Github+profile+%F0%9F%A4%8D)](https://git.io/typing-svg)
 
+
 - 💻 Analista de testes;
 - 📑 Me aprimorando em testes automatizados;
 - 👩🏻‍🎓 Análise e Desenvolvimento de Sistemas.
@@ -11,6 +12,7 @@
 
 ## Sobre mim
 Sou apaixonada por tecnologia, sempre em busca de aprimorar minhas habilidades. Trabalho com atenção aos detalhes, sou dedicada ao que faço, e valorizo o feedback construtivo, pois acredito que ele é essencial para o meu crescimento. Tenho me dedicado intensamente ao estudo e à prática de automação de testes com Cypress e javascript. Fora do trabalho, adoro me envolver no universo dos jogos, séries, doramas e filmes.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ###  📭 Entre em contato comigo:
 
