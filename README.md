@@ -14,9 +14,12 @@ Fora do ambiente de trabalho, adoro mergulhar em **jogos, séries, doramas e fil
 ---
 
 ### 🧠 Atualmente:
-- 💻 Atuando como **Analista de Testes**;  
-- 🤖 Me aprimorando em **testes automatizados** (Cypress e Robot Framework);  
-- 👩🏻‍🎓 Cursando **Análise e Desenvolvimento de Sistemas**.  
+Atualmente:
+
+💻 Atuando como Analista de Testes;
+🤖 Me aprimorando em testes automatizados (Cypress, Robot Framework e Playwright);
+🎓 Formada em Análise e Desenvolvimento de Sistemas;
+📘 Cursando Pós-graduação em Automação de Testes de Software (PGATS).
 
 ---
 
