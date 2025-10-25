@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Natalia Ferreira!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=28&duration=4995&pause=1000&color=A73CCA&background=FF6AE300&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile!;Quality+Assurance+%26+Automation+Testing;Tech+Enthusiast+💜)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=28&duration=4995&pause=1000&color=A73CCA&background=FF6AE300&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile!;Quality+Assurance+%26+Automation+Testing)](https://git.io/typing-svg)
 
 ---
 
