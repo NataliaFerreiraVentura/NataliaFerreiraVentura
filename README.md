@@ -4,30 +4,41 @@
 
 ---
 
-### 💡 Sobre mim  
+## 💡 Sobre mim
 Sou **Analista de Testes** com paixão por tecnologia e aprimoramento contínuo.  
-Tenho me dedicado ao **estudo e prática de automação de testes** com **Cypress** e **JavaScript**, explorando também conceitos de **testes manuais e de integração**.  
+Tenho me dedicado ao **estudo e prática de automação de testes** com **Cypress e Playwright**, explorando também conceitos de testes manuais e de integração.  
 
-Sou uma pessoa **detalhista, curiosa e colaborativa**, que acredita no poder do **feedback construtivo** para o crescimento profissional.  
-Fora do ambiente de trabalho, adoro mergulhar em **jogos, séries, doramas e filmes** 🎮📺🎬.
-
----
-
-### 🧠 Atualmente:
-Atualmente:
-
-💻 Atuando como Analista de Testes<br>
-🤖 Me aprimorando em testes automatizados (Cypress, Robot Framework e Playwright)<br>
-🎓 Formada em Análise e Desenvolvimento de Sistemas<br>
-📘 Cursando Pós-graduação em Automação de Testes de Software (PGATS)
-
+Sou detalhista, curiosa e colaborativa, e acredito que o **feedback construtivo** é essencial para o crescimento profissional.  
+Fora do trabalho, adoro mergulhar em **jogos, séries, doramas e filmes** 🎮📺🎬.
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas
+### 🧠 Formação e Atualizações
+- 🎓 **Formada em Análise e Desenvolvimento de Sistemas**  
+- 📘 **Cursando Pós-graduação em Automação de Testes de Software (PGATS)**  
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,gherkin,cypress,postgres,postman,git,vscode)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="50" height="50" title="Jira"/>
+---
+
+### 🏆 Certificações
+- **ISTQB Foundation Level** – Testes de Software  
+- **CertiProf** – Scrum Foundation Professional Certificate (SFPC v2020)  
+- **Curso Gratuito** – Introdução a Testes de API REST  
+
+---
+
+### 🛠 Ferramentas e Tecnologias
+**Automação:** Cypress, Playwright  
+**Linguagens:** JavaScript, SQL  
+**Banco de dados:** PostgreSQL, SQL  
+**Controle de versão:** Git/GitHub  
+**Gestão e organização:** Jira, Trello, Azure DevOps  
+
+---
+
+### 🚀 Projetos
+- **Automação de testes em aplicação web** – Playwright (Saucedemo) | [Repositório](https://github.com/NataliaFerreiraVentura/Playwright-Saucedemo)  
+- **Automação de testes em aplicação web** – Cypress (Saucedemo) | [Repositório](https://github.com/NataliaFerreiraVentura/Testes-Automotizados-SauceDemo)  
+- **Validação de APIs REST** – Trabalho final PGATS (Mocha, Chai, Supertest, Sinon) | [Repositório](https://github.com/NataliaFerreiraVentura/PGATS02-API-TrabalhoFinal)
 
 ---
 
@@ -40,9 +51,9 @@ Atualmente:
 
 ### 📫 Entre em contato comigo
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliaferreiraventura@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-ferreira-ventura-a3327b15b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliaferreiraventura@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-ferreira-ventura-a3327b15b/)  
 
 ---
 
-✨ *"A qualidade não é um ato, é um hábito."* — Aristóteles  
+✨ *"A qualidade não é um ato, é um hábito."* — Aristóteles
